@@ -1,7 +1,15 @@
-- name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+- name: Shooter
+  link: https://github.com/LefterisIkaria/Shooter
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    Shooter Game with phaser
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    In this project I added new features to an existing shooter game with HTML5 and phaser.
+  
+- name: corfu-map
+  link: https://github.com/LefterisIkaria/corfu-map
+  quote: >
+     Cooperative mapping
+  description: | # this will include new lines to allow paragraphs
+      In this project we used an app that collect data from users and mapping the streets of Corfu and we made some improvements to the app.
+    
+
