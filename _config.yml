@@ -26,6 +26,8 @@ about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Lefteris and I'm an undergraduate studen at Ionian University at the department of computer science and informatics.
   I have some basic skills at programming and Databases and still learning about all the magic things I can do with enough practice.
+  
+  Birth: 28, October 1998
 # Projects Section
 # projects_title: Projects
 
@@ -39,8 +41,9 @@ experience_title: Seminars
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interest in programming some of my other interests and hobbies are:
-   - Sports
+   - Sports (Boxing, basketball)
    - Gaming
+   - Chess
 
 # Footer
 footer_show_references: true
